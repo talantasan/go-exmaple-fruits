@@ -2,6 +2,6 @@ package fruit
 
 import strings
 
-func Fruits_List() string {
+func FruitsList() string {
 	return "Banana, Apple, Pineapple, Watermelon" + strings.ToUpper()
 }
